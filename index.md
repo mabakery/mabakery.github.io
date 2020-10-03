@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Jekyll Serif Theme
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
+title: Má Bakery
+description: This is the description
+intro_image: "images/photos/cookie_opt.jpg"
+intro_image_absolute: false
+intro_image_hide_on_mobile: false
 ---
 
-# Serif - A Jekyll Business Theme.
+# Craft Quality Cannabis Cookies
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Compliant with new regulations by downplaying the curative properties of cannabinoids as providing "A general health enhancement"

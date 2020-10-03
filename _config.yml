@@ -9,7 +9,9 @@ homepage:
 logo:
   mobile: "images/logo/logo-full-no-bg.svg"
   desktop: "images/logo/logo-icon-no-bg.svg"
-  desktop_height: "36px"
+  desktop_2: "images/logo/logo-full-typography.svg"
+  desktop_3: "images/logo/logo-typography-only-bakery.svg"
+  desktop_height: "72px"
 footer:
   copyright_text: 'Copyright Má Bakery !YEAR! | Special thank you to <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
 
