@@ -9,7 +9,7 @@ homepage:
 logo:
   mobile: "images/logo/logo-full-no-bg.svg"
   desktop: "images/logo/logo-full-no-bg.svg"
-  desktop_height: "120px"
+  desktop_height: "140px"
 footer:
   copyright_text: 'Copyright Má Bakery !YEAR! | Special thank you to <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a> and ontwerp.ch'
 
