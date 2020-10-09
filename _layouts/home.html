@@ -9,9 +9,13 @@ bodyClass: page-home
     <div class="row justify-content-start">
       <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
         {{ content }}
+        {% comment %}
         {% if site.homepage.show_call_box %}
           {% include call.html show_button=true %}
         {% endif %}
+        {% endcomment %}
+        <a href="/shop" class="button">Shop Now</a>
+
       </div>
       {% if page.intro_image %}
       <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
@@ -22,6 +26,7 @@ bodyClass: page-home
   </div>
 </div>
 
+{% comment %}
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
@@ -41,6 +46,32 @@ bodyClass: page-home
     <div class="row justify-content-center">
       <div class="col-auto">
         <a class="button button-primary" href="{{site.baseurl}}/services">View All Services</a>
+      </div>
+    </div>
+  </div>
+</div>
+{% endcomment %}
+
+<div class="strip">
+  <div class="container">
+    <div class="row justify-content-start">
+
+      <div class="col-12 col-md-12">
+        <h2>Local and Lekker</h2>
+        <p>Having experienced the medicinal and therapeutic value of cannabis first hand, 
+          we can comfortably sing the praises of the various forms of this magical plant to you.
+        </p>        
+        <p>
+          We aim to provide you with the highest quality baked goods infused with full spectrum CBD oil,
+          without charging the exhorbitant rates of opportunistic fly by night vendors so prevalent in 
+          the world today.
+        </p>
+      </div>
+
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-auto">
+        <a class="button button-primary" href="/shop">View the Range</a>
       </div>
     </div>
   </div>

@@ -11,7 +11,7 @@ logo:
   desktop: "images/logo/logo-full-no-bg.svg"
   desktop_height: "140px"
 footer:
-  copyright_text: 'Copyright Má Bakery !YEAR! | Special thank you to <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a> and ontwerp.ch'
+  copyright_text: 'Copyright Má Bakery !YEAR! | Special thank you to <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a> and <a class="zerostatic" href="https://ontwerp.ch">ontwerp.ch</a>'
 
 seo:
   meta_og_title: "Má Bakery - Craft Cannabis Cookies and Confections"
